@@ -1,4 +1,6 @@
-
+pre {
+  border-left: 2px solid $brand-color-light;
+}
 
 /**
  * Links
@@ -71,7 +73,7 @@ a {
     font-weight: $base-font-weight;
     letter-spacing: 0.2px;
     transition: 0.1s filter color;
-    opacity: 0.5;
+    opacity: 0.75;
    transition: 0.15s all ease-in-out; //
     text-transform: full-width;
     font-weight: bold;//

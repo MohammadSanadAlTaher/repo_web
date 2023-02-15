@@ -312,6 +312,11 @@ html[data-theme="dark"]  {
     }
   }
 
+
+  pre {
+    border-left: 2px solid $brand-color-dark;
+  }
+
 }
 
 
