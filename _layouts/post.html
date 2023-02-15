@@ -1,0 +1,23 @@
+---
+layout: framework
+banner_html: post-header.html
+hidden: []
+sidebar:
+  - article-menu
+---
+
+<div class="post">
+  <section>
+
+    {%- assign name = 'hidden' -%}
+    {%- include functions.html func='get_value' -%}
+    {%- assign hidden = return -%}
+
+    {%- assign result = hidden | where_exp: "item", "item == 'header'" -%}
+    {%- if banner == nil and result.size == 0 -%}
+    {%- include views/post-header.html -%}
+    {%- endif -%}
+
+    {%- include views/article.html -%}
+  </section>
+</div>

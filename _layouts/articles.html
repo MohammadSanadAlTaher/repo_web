@@ -1,0 +1,23 @@
+---
+layout: framework
+---
+
+<div class="articles">
+
+  <header class="atricle-title">
+    <h1 class="article-title p-name" itemprop="name headline">{{ heading | default: page.title | escape }}</h1>
+  </header>
+
+  {{ content }}
+
+
+</div>
+
+<style>
+
+  .articles {
+    margin-top: 20px;
+  }
+
+</style>
+

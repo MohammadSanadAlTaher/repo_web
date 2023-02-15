@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<div id="search-container"> <!-- onclick="searchboxselect()"-->
+      <div class="search-bar">
+        <i class="fa fa-search" aria-hidden="true"></i>
+        <input type="text" id="search-input" placeholder="search...">
+        <ul id="results-container" style=" line-height: 1.8"></ul>
+        </input>
+      </div>
+    </div>
+</html>
+
+
+
+<script src="https://mohammadsanadaltaher.github.io/dev_site2/assets/js/search-script.js" type="text/javascript"></script>
+
+
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/dev_site2/search.json',
+    noResultsText: ("couldn't find that&nbsp :(")
+  })
+</script>
+
+<!--
+<script>
+    searchboxselect search-container-select
+</script>
+-->

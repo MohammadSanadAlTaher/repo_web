@@ -1,0 +1,125 @@
+[
+  
+  {
+
+    "title"    : "EE407 Antennas and Radio Wave Propagation Equations",
+    "url"      : "/dev_site2/course-resources/EE407-equations",
+    "date"     : "2022-06-19 00:00:00 +0400",
+    "content" : "I took this course in the spring semester of 2021/2022, it was instructed by Prof. Dr. Majid Khodier.The equations were mainly compiled from Prof. Majid’s notes and lectures, as well as various textbooks such as R. E. Collin’s Antennas and Radio Wave Propagation.Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE551 Digital Communications Equations",
+    "url"      : "/dev_site2/course-resources/EE551-equations",
+    "date"     : "2022-06-14 00:00:00 +0400",
+    "content" : "I took this course in the spring semester of 2021/2022, it was instructed by Dr. Ibrahim Ghareeb.The equations were compiled from Dr. Ibrahim’s slides and lectures, as well as J. G. Proakis and M. Salehi’s Fundamentals of Communication Systems.Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "Initialization",
+    "url"      : "/dev_site2/guides/initialization/",
+    "date"     : "2021-06-24 01:17:08 +0400",
+    "content" : "Here, I will detail how and why I built this site for those who are interested in building one for themselves.&amp;nbsp;How?As a student, using open-source/freeware was a priority. At the time of writing this post (June 24th 2021), I have not paid a single cent for this website, and I am only expecting to pay to renew my domain registration (~20USD/year).Unless major changes have been made to the services I used, you should be able to create a completely free website by following the steps outlined below.As always, feel free to reach out if any issues linger.Note: you don’t need to follow the exact order of the steps, however, this is the order I followed.&amp;nbsp;Steps:Setup: Make a GitHub account: Having a GitHub account was essential to me because I chose to host my website on GitHub Pages, which is a free hosting service for static sites. Registering a domain: Another reason why a GitHub account is essential is that if you sign up to GitHub with a student email address (i.e., the email address provided by your institution), you can register a free .me domain for a year on namecheap. To access all GitHub student benefits (including the free .me domain registration), click here. Mentioning the steps for registering a domain is redundant, as they are easy to follow and are outlined by namecheap or any other domain registry service you choose to use. Access your domain: If you’ve registered your domain to your GitHub account successfully, then going on your domain should show your GitHub username. Register for cloudflare: I found that cloudflare DNS was the most suitable for me. Hence, my next step was to sign up to cloudflare and put my domain on their Free Plan. To setup the DNS records and add cloudflare’s servers, I followed this guide by namecheap. &amp;nbsp;Interlude 1:Now that you’ve registered for all necessary services, the next steps will be downloading and installing software.To generate this website, I decided to use Jekyll, which is a simple open-source static site generator generally used for blogs and the such.As mentioned earlier, GitHub Pages host static sites only, therefore, WordPress or other similar services will not be compatible, as they require a server running a script simultaneously (i.e., WordPress sites are dynamic). In addition, Jekyll integrates really well with GitHub Pages.For the IDE, I’m using WebStorm from JetBrains. (Please refer to step 7)&amp;nbsp;Download &amp;amp; Installation:"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE305 Numerical Methods Notes",
+    "url"      : "/dev_site2/course-resources/Numerical-Methods-Notes",
+    "date"     : "2021-06-23 01:23:44 +0400",
+    "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Dr. Ahmad Ababnah.The notes are in reference S. Chapra and R. Canale’s Numerical Methods for Engineers  and Dr. Ahmad’s notes and lectures.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE450 Communication Systems Transforms &amp; Misc. Equations",
+    "url"      : "/dev_site2/course-resources/Comm-Systems-Transforms",
+    "date"     : "2021-06-23 01:11:27 +0400",
+    "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Dr. Jehad Ababneh.The equations were taken from various sources, such as: WikiBooks Engineering TablesPlease contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE305 Numerical Methods Equations",
+    "url"      : "/dev_site2/course-resources/numericalmethodsequations",
+    "date"     : "2021-06-23 01:11:27 +0400",
+    "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Dr. Ahmad Ababnah.The equations were taken from S. Chapra and R. Canale’s Numerical Methods for Engineers  and Dr. Ahmad’s notes and lectures.Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE307 Electromagnetics II Equations",
+    "url"      : "/dev_site2/course-resources/EM2-equations",
+    "date"     : "2021-06-22 01:22:14 +0400",
+    "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Prof. Dr. Nihad Dib.The equations were taken from M. Sadiku’s Elements of Electromagnetics (seventh edition) and Prof. Nihad’s notes and lectures.Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE307 Electromagnetics II Notes",
+    "url"      : "/dev_site2/course-resources/electromagnetics2",
+    "date"     : "2021-06-22 01:22:13 +0400",
+    "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Prof. Dr. Nihad Dib.The notes are in reference to M. Sadiku’s Elements of Electromagnetics (seventh edition) and Prof. Nihad’s notes, lectures, past exams, and past quizzes.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "Wireless Power Transmission with Applied Metamaterials",
+    "url"      : "/dev_site2/papers/WPTEssay",
+    "date"     : "2021-06-22 01:18:18 +0400",
+    "content" : ""
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE420 Digital Electronic Circuits Notes",
+    "url"      : "/dev_site2/course-resources/digital-electronics",
+    "date"     : "2021-06-22 01:08:09 +0400",
+    "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Prof. Dr. Nedal Al-Ababneh.The notes are in reference K. G. Gopalan’s Introduction to Digital Microelectronic Circuits  and Prof. Nedal’s slides and lectures.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "Proteus Guide",
+    "url"      : "/dev_site2/guides/Proteus",
+    "date"     : "2021-06-22 01:06:14 +0400",
+    "content" : "I wrote this guide in February 2021 for EE346 Micro Controllers Laboratory. Prof. Dr. Ahmad Abu-El-Haija supervised me in writing it.Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE450 Communication Systems Notes",
+    "url"      : "/dev_site2/course-resources/communication-systems-notes",
+    "date"     : "2021-06-22 01:03:11 +0400",
+    "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Dr. Jehad Ababneh.The notes are in reference to J. Proakis and M. Salehi’s Fundamentals of Communication Systems, and Dr. Jehad’s notes, lectures, past exams, and past homeworks.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } 
+  
+
+]
+
