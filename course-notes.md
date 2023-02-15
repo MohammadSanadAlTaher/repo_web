@@ -7,7 +7,7 @@ permalink: /course-resources/
 
 My work in courses I have taken in the past. If you wish to refer to the documents, please note that they are not free from mistakes. 
 
-If you have any concerns, please [contact](https://mohammadsanadaltaher.github.io/contact/) me.
+If you have any concerns, please [contact]({{ site.url }}{{ site.baseurl }}/contact/) me.
 
 <p>&nbsp;</p>
 ----
@@ -16,7 +16,7 @@ If you have any concerns, please [contact](https://mohammadsanadaltaher.github.i
 <h3 style="font-weight: lighter;">5th Year EE Courses</h3>
 
 #### EE551 Digital Communications:
-* [Equations](https://mohammadsanadaltaher.github.io/course-resources/EE551-equations)
+* [Equations]({{ site.url }}{{ site.baseurl }}/course-resources/EE551-equations)
 
 <p>&nbsp;</p>
 ----
@@ -25,15 +25,15 @@ If you have any concerns, please [contact](https://mohammadsanadaltaher.github.i
 <h3 style="font-weight: lighter;">4th Year EE Courses</h3>
 
 #### EE450 Communication Systems:
-* [Course Notes](https://mohammadsanadaltaher.github.io/course-resources/communication-systems-notes)
+* [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/communication-systems-notes)
   
-* [Transforms](https://mohammadsanadaltaher.github.io/course-resources/Comm-Systems-Transforms)
+* [Transforms]({{ site.url }}{{ site.baseurl }}/course-resources/Comm-Systems-Transforms)
 
 #### EE420 Digital Electronic Circuits:
-* [Course Notes](https://mohammadsanadaltaher.github.io/course-resources/digital-electronics)
+* [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/digital-electronics)
 
 #### EE407 Antennas and Radio Wave Propagation:
-* [Equations](https://mohammadsanadaltaher.github.io/course-resources/EE407-equations)
+* [Equations]({{ site.url }}{{ site.baseurl }}/course-resources/EE407-equations)
 
 
 <p>&nbsp;</p>
@@ -44,15 +44,15 @@ If you have any concerns, please [contact](https://mohammadsanadaltaher.github.i
 
 
 #### EE307 Electromagnetics II:
-* [Course Notes](https://mohammadsanadaltaher.github.io/course-resources/electromagnetics2)
+* [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/electromagnetics2)
 
-* [Equations](https://mohammadsanadaltaher.github.io/course-resources/EM2-equations)
+* [Equations]({{ site.url }}{{ site.baseurl }}/course-resources/EM2-equations)
 
 
 #### EE305 Numerical Methods:
-* [Course Notes](https://mohammadsanadaltaher.github.io/course-resources/Numerical-Methods-Notes)
+* [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/Numerical-Methods-Notes)
 
-* [Equations](https://mohammadsanadaltaher.github.io/course-resources/numericalmethodsequations)
+* [Equations]({{ site.url }}{{ site.baseurl }}/course-resources/numericalmethodsequations)
 
 <p>&nbsp;</p>
 ----
