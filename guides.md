@@ -6,9 +6,9 @@ permalink: /guides/
 
 Here, you'll find guides I prepared.
 
-#### [Website Initialization Guide](https://mohammadsanadaltaher.github.io/dev_site2/guides/initialization)
+#### [Website Initialization Guide](https://mohammadsanadaltaher.github.io/guides/initialization)
 
-#### [Getting Started with Proteus 8](https://mohammadsanadaltaher.github.io/dev_site2/guides/Proteus)
+#### [Getting Started with Proteus 8](https://mohammadsanadaltaher.github.io/guides/Proteus)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>

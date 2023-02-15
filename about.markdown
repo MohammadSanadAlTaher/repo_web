@@ -11,11 +11,11 @@ obtaining a postgraduate degree in the future.
 
 
 <figure>
-  <img src="/dev_site2/assets/img/selfphoto22.jpeg" height="238px" width="242px" style= "border-radius:12px; margin-left: auto; margin-right: auto;">
+  <img src="/assets/img/selfphoto22.jpeg" height="238px" width="242px" style= "border-radius:12px; margin-left: auto; margin-right: auto;">
   <figcaption style="text-align: center; margin:8px; font-size: 14px; opacity: 0.6"><i>December, 2021, while on Erasmus+ exchange in Istanbul.</i></figcaption>
 </figure>
 
-You can access my résumé [HERE](/dev_site2/resume/)
+You can access my résumé [HERE](/resume/)
 
 You can find my LinkedIn profile [HERE][linkedin-profile]
 

@@ -5,7 +5,7 @@
   {
 
     "title"    : "{{ post.title | escape }}",
-    "url"      : "/dev_site2{{ post.url }}",
+    "url"      : "{{ post.url }}",
     "date"     : "{{ post.date }}",
     "content" : "{{ post.content | strip_html | strip_newlines | truncatewords: 400, "" | rstrip | lstrip | escape }}"
 

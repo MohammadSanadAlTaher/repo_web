@@ -10,13 +10,13 @@ I took this course in the spring semester of 2020/2021, it was instructed by [Dr
 
 The equations were taken from various sources, such as: [WikiBooks Engineering Tables](https://en.wikibooks.org/wiki/Engineering_Tables)
 
-Please [contact](/dev_site2/contact/) me if you have any concerns.
+Please [contact](/contact/) me if you have any concerns.
 
 <p>&nbsp;</p>
 
-<p style="text-align:center;">View below or <a href="/dev_site2/assets/pdf/CommSystemsTransformsMiscEqs.pdf">
+<p style="text-align:center;">View below or <a href="/assets/pdf/CommSystemsTransformsMiscEqs.pdf">
 click here</a></p>
 
 <div style="text-align: center; margin-top: -10px">
-<object data="/dev_site2/assets/pdf/CommSystemsTransformsMiscEqs.pdf" width="100%" height="1080" type="application/pdf"></object>
+<object data="/assets/pdf/CommSystemsTransformsMiscEqs.pdf" width="100%" height="1080" type="application/pdf"></object>
 </div>

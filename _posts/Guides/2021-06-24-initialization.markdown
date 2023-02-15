@@ -23,7 +23,7 @@ As a student, using open-source/freeware was a priority. At the time of writing 
 
 Unless major changes have been made to the services I used, you should be able to create a completely free website by following the steps outlined below.
 
-As always, feel free to [reach out](/dev_site2{% link zcontact.md %}) if any issues linger. 
+As always, feel free to [reach out]({% link zcontact.md %}) if any issues linger. 
 
 _**Note:** you don't need to follow the exact order of the steps, however, this is the order I followed._ 
 
@@ -267,7 +267,7 @@ Lorem ipsum
 
 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk] or you can [contact](/dev_site2{% link zcontact.md %}) me personally.
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk] or you can [contact]({% link zcontact.md %}) me personally.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

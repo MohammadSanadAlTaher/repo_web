@@ -10,13 +10,13 @@ I took this course in the spring semester of 2020/2021, it was instructed by [Dr
 
 The notes are in reference to J. Proakis and M. Salehi's _Fundamentals of Communication Systems_, and Dr. Jehad's notes, lectures, past exams, and past homeworks.
 
-These notes are not free from mistakes, reader discretion is advised. Please [contact](/dev_site2/contact/) me if you have any concerns.
+These notes are not free from mistakes, reader discretion is advised. Please [contact](/contact/) me if you have any concerns.
 
 <p>&nbsp;</p>
 
-<p style="text-align:center;">View below or <a href="/dev_site2/assets/pdf/Comm_Sys_notes.pdf">
+<p style="text-align:center;">View below or <a href="/assets/pdf/Comm_Sys_notes.pdf">
 click here</a></p>
 
 <div style="text-align: center; margin-top: -10px">
-<object data="/dev_site2/assets/pdf/Comm_Sys_notes.pdf" width="100%" height="1080" type="application/pdf"></object>
+<object data="/assets/pdf/Comm_Sys_notes.pdf" width="100%" height="1080" type="application/pdf"></object>
 </div>

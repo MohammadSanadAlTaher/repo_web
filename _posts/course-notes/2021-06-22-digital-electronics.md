@@ -10,14 +10,14 @@ I took this course in the spring semester of 2020/2021, it was instructed by [Pr
 
 The notes are in reference K. G. Gopalan's _Introduction to Digital Microelectronic Circuits_  and Prof. Nedal's slides and lectures.
 
-These notes are not free from mistakes, reader discretion is advised. Please [contact](/dev_site2/contact/) me if you have any concerns.
+These notes are not free from mistakes, reader discretion is advised. Please [contact](/contact/) me if you have any concerns.
 
 <p>&nbsp;</p>
 
-<p style="text-align:center;">View below or <a href="/dev_site2/assets/pdf/digital_electronics_notes.pdf">
+<p style="text-align:center;">View below or <a href="/assets/pdf/digital_electronics_notes.pdf">
 click here</a></p>
 
 <div style="text-align: center; margin-top: -10px">
-<object data="/dev_site2/assets/pdf/digital_electronics_notes.pdf" width="100%" height="1080" type="application/pdf"></object>
+<object data="/assets/pdf/digital_electronics_notes.pdf" width="100%" height="1080" type="application/pdf"></object>
 </div>
 
