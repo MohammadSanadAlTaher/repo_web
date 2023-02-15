@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Mohammad Sanad AlTaher's personal website intends to host his professional information and public work such as: course notes, guides, papers, and more!
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sanadaltaher.me/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sanadaltaher.me" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "https://sanadaltaher.me/favicon.png"
 
 
