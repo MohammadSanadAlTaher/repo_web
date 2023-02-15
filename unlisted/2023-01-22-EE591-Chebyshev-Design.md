@@ -187,9 +187,6 @@ end
     word-wrap: break-word;
 }
 
-pre {
-    border-left: 4px;
-    }
 
 </style>
 
