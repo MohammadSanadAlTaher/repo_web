@@ -10,7 +10,7 @@ permalink: /contact/
 <style>
 
 .form_cred {
-    width: 30%;
+    width: 35%;
     padding: 10px 14px;
     margin: 8px 0;
     box-sizing: border-box;
@@ -19,7 +19,7 @@ permalink: /contact/
 }
 
 textarea {
-    width: 35%;
+    width: 45%;
     height: 150px;
     padding: 10px 14px;
     box-sizing: border-box;

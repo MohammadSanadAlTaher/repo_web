@@ -40,6 +40,11 @@
   transform: translateY(0);
 }
 
+.click-to-top:hover {
+  scale: 1.1;
+  transition: 0.1s ease-in-out;
+}
+
 html[data-theme="dark"] {
   .click-to-top {
     background: #34323D;

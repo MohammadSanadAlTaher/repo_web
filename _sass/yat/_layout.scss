@@ -303,42 +303,56 @@ a {
     padding-top: 7px;
     padding-bottom: 10px;
 
-    .column1 {
-      flex: 20%;
-    }
+      .column1 {
+        flex: 20%;
+      }
 
-    .column2 {
-      flex: 60%;
-      display: table-cell;
-      width: 60%;
-      vertical-align: middle;
-      text-align: justify;
-      text-justify: inter-word;
-    }
+      .column2 {
+        //flex: 60%;
+        display: table-cell;
+        width: 60%;
+        vertical-align: middle;
+        text-align: justify;
+        clear: none;
+        margin-top: 0px;
+        text-justify: inter-word;
+        overflow: hidden;
+      }
 
-    .columna {
-      width: 3%;
-      text-align: center;
-      display: table-cell;
-      vertical-align: middle;
-      align-items: center;
-    }
+      .columna {
+        width: 3%;
+        text-align: center;
+        display: table-cell;
+        vertical-align: middle;
+        align-items: center;
 
-    .columnb {
-      width: 30%;
-      display: table-cell;
-      vertical-align: middle;
-      align-items: flex-start;
-    }
+      }
 
-    .columnsep1 {
-      display: table-cell;
-      width: 2%;
-    }
+      .columnb {
+        width: 30%;
+        display: table-cell;
+        clear: right;
+        vertical-align: middle;
+        align-items: flex-start;
+      }
 
-    .columnsep2 {
-      display: table-cell;
-      width: 10%;
+      .columnsep1 {
+        display: table-cell;
+        width: 2%;
+      }
+
+      .columnsep2 {
+        display: table-cell;
+        width: 10%;
+      }
+
+    @media only screen and (max-width: 600px) {
+      .column2{
+        display: block;
+        padding-top: 8px;
+        text-align: left;
+        width: 100%;
+      }
     }
 
   }
