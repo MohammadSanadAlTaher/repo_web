@@ -806,6 +806,7 @@ a {
   margin-top: 0.6%;
   text-align: left;
   z-index: 1;
+  font-weight: normal;
 
   .search-bar {
     margin-top: 0px;
@@ -842,7 +843,6 @@ a {
 
     list-style: none;
     position: relative;
-    transition: 0.1s ease-in-out;
     top: 6px;
     max-height: 0px;
     overflow: hidden;

@@ -184,20 +184,17 @@ Additionally, I found that markdown is quite beginner-friendly and, in a way, in
 9. **Front matter**
 
    permalinks, layouts, defaults, etc
-   lorem ipsum
+
 10. **Creating posts:**
 
-      lorem ipsum
 
 11. **Creating pages:**
 
       pages.md files
-      lorem ipsum
 
 12. **Changing page structure:**
 
       changing
-      lorem ipsum
 
 13. **Themes**
     
@@ -233,8 +230,7 @@ Additionally, I found that markdown is quite beginner-friendly and, in a way, in
 14. **General HTML:**
 
       Adding objects: pdfs, etc.
-    lorem ipsum
-
+ 
 
 <p>&nbsp;</p>
 
@@ -247,15 +243,12 @@ Additionally, I found that markdown is quite beginner-friendly and, in a way, in
 {:start="15"}
 15. **Create a GitHub repository for your site:**
 
-      lorem ipsum
 
 16. **Changing your static site's URL:**
 
-      lorem ipsum
 
 17. **Pushing your site to your GitHub repository:**
 
-      lorem ipsum
 
 18. **Applying any new changes:**
 
@@ -263,7 +256,6 @@ Additionally, I found that markdown is quite beginner-friendly and, in a way, in
 
 ## Conclusion:
 
-Lorem ipsum
 
 
 

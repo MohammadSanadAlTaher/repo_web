@@ -301,7 +301,7 @@ html[data-theme="dark"]  {
   a {
     color: $brand-color-dark;
     text-decoration: none;
-    transition: 0.05s ease-in-out;
+    transition: 0.1s ease-in-out;
 
 
     &:hover {
@@ -309,7 +309,7 @@ html[data-theme="dark"]  {
       .25px .25px $brand-color-dark;
       opacity: 1;
       filter: contrast(200%) brightness(250%);
-      transition: 0.1s ease-in-out;
+      transition: 0.25s ease-in-out;
     }
   }
 
