@@ -301,15 +301,15 @@ html[data-theme="dark"]  {
   a {
     color: $brand-color-dark;
     text-decoration: none;
-    transition: 0.1s ease-in-out;
+    transition: 0.05s ease-in-out;
 
 
     &:hover {
       text-shadow: -.25px -.25px 0 $brand-color-dark,
       .25px .25px $brand-color-dark;
       opacity: 1;
-      filter: contrast(200%) brightness(200%);
-      transition: 0.15s ease-in-out;
+      filter: contrast(200%) brightness(130%);
+      transition: 0.1s ease-in-out;
     }
   }
 

@@ -65,7 +65,7 @@ table td { border: 1px solid #e8e8e8; }
 pre { border-left: 4px solid #ff5100; }
 
 /** Links */
-a { color: #ff5100; text-decoration: none; transition: 0.05s ease-in-out; }
+a { color: #ff5100; text-decoration: none; }
 a:hover { text-shadow: -0.25px -0.25px 0 #ff5100, 0.25px 0.25px #ff5100; filter: contrast(200%); transition: 0.05s ease-in-out; }
 .social-media-list a:hover { text-decoration: none; }
 .social-media-list a:hover .username { text-decoration: underline; }
@@ -294,8 +294,8 @@ html[data-theme="dark"] .post-link:hover { text-shadow: -.25px -.25px 0 white, .
 html[data-theme="dark"] .post-link::before { background-color: #bbb; }
 html[data-theme="dark"] #search-container .search-bar { background: #0e0e0e; border: 1px solid #858585; filter: brightness(150%); }
 html[data-theme="dark"] #search-container .search-bar input[type=text] { color: #bbb; }
-html[data-theme="dark"] a { color: #389092; text-decoration: none; transition: 0.1s ease-in-out; }
-html[data-theme="dark"] a:hover { text-shadow: -0.25px -0.25px 0 #389092, 0.25px 0.25px #389092; opacity: 1; filter: contrast(200%) brightness(200%); transition: 0.15s ease-in-out; }
+html[data-theme="dark"] a { color: #389092; text-decoration: none; transition: 0.05s ease-in-out; }
+html[data-theme="dark"] a:hover { text-shadow: -0.25px -0.25px 0 #389092, 0.25px 0.25px #389092; opacity: 1; filter: contrast(200%) brightness(130%); transition: 0.1s ease-in-out; }
 html[data-theme="dark"] pre { border-left: 4px solid #389092; }
 html[data-theme="dark"] .form_cred { width: 35%; padding: 10px 14px; margin: 8px 0; box-sizing: border-box; border: 2px solid #858585; border-radius: 12px; color: white; font-weight: 500; background-color: transparent; backdrop-filter: brightness(250%); }
 html[data-theme="dark"] .form_cred input[type=text] { color: white !important; }
