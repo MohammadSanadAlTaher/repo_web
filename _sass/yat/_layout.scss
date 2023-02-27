@@ -14,9 +14,8 @@ a {
   &:hover {
     text-shadow: -.25px -.25px 0 $brand-color-light,
     .25px .25px $brand-color-light;
-    opacity: 1;
-    filter: contrast(200%) brightness(250%);
-    transition: 0.1s ease-in-out;
+    filter: contrast(200%);
+    transition: 0.05s ease-in-out;
   }
 
 

@@ -26,8 +26,8 @@ html[data-theme="dark"]  {
             &:hover {
               text-shadow: -.25px -.25px 0 $dark-text-color,
               .25px .25px $dark-text-color;
-              transition: 0.05s ease-in-out;
               filter: contrast(200%);
+              transition: 0.05s ease-in-out;
             }
 
           }
@@ -308,8 +308,8 @@ html[data-theme="dark"]  {
       text-shadow: -.25px -.25px 0 $brand-color-dark,
       .25px .25px $brand-color-dark;
       opacity: 1;
-      filter: contrast(200%) brightness(250%);
-      transition: 0.25s ease-in-out;
+      filter: contrast(200%) brightness(200%);
+      transition: 0.15s ease-in-out;
     }
   }
 
