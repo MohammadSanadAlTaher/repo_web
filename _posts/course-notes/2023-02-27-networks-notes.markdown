@@ -8,7 +8,7 @@ permalink: /:categories/:title
 
 I took this course in the fall semester of 2022/2023, it was instructed by [Dr. Mahmoud Khodeir](https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=makhodeir).
 
-The notes are in reference to B. Forouzan's _Data Communications and Networking_, and Prof. Mahmoud's lectures and past exams.
+The notes are in reference to B. Forouzan's _Data Communications and Networking_, and Dr. Mahmoud's lectures and past exams.
 
 These notes are not free from mistakes, reader discretion is advised. Please [contact](/contact/) me if you have any concerns.
 
