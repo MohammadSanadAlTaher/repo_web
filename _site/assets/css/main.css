@@ -292,7 +292,7 @@ html[data-theme="dark"] .post-menu .post-menu-content ul a:hover { color: #fff !
 html[data-theme="dark"] .articles .article-title, html[data-theme="dark"] .post .article-title { color: #bbb; }
 html[data-theme="dark"] .post-link:hover { text-shadow: -.25px -.25px 0 white, .25px .25px white; filter: contrast(200%); }
 html[data-theme="dark"] .post-link::before { background-color: #bbb; }
-html[data-theme="dark"] #search-container .search-bar { background: #0e0e0e; border: 1px solid #858585; filter: brightness(250%); }
+html[data-theme="dark"] #search-container .search-bar { background: #0e0e0e; border: 1px solid #858585; filter: brightness(150%); }
 html[data-theme="dark"] #search-container .search-bar input[type=text] { color: #bbb; }
 html[data-theme="dark"] a { color: #389092; text-decoration: none; transition: 0.1s ease-in-out; }
 html[data-theme="dark"] a:hover { text-shadow: -0.25px -0.25px 0 #389092, 0.25px 0.25px #389092; opacity: 1; filter: contrast(200%) brightness(250%); transition: 0.25s ease-in-out; }

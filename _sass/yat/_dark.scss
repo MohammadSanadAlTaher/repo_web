@@ -291,7 +291,7 @@ html[data-theme="dark"]  {
   #search-container .search-bar {
     background: $dark-background-color;
     border: 1px solid #858585;
-    filter: brightness(250%);
+    filter: brightness(150%);
     input[type=text] {
       color: $dark-text-color;
     }

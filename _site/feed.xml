@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-27T14:28:36+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sanad AlTaher</title><subtitle>Mohammad Sanad AlTaher's personal website intends to host his professional information and public work such as: course notes, guides, papers, and more!</subtitle><entry><title type="html">EE555 Optical Fiber Communication Systems Notes</title><link href="http://localhost:4000/course-resources/optical-fibers-notes" rel="alternate" type="text/html" title="EE555 Optical Fiber Communication Systems Notes" /><published>2023-02-27T00:03:11+03:00</published><updated>2023-02-27T00:03:11+03:00</updated><id>http://localhost:4000/course-resources/optical-fibers-notes</id><content type="html" xml:base="http://localhost:4000/course-resources/optical-fibers-notes">&lt;p&gt;I took this course in the fall semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=mabbadi&quot;&gt;Prof. Dr. Mansour Abu Shreea&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-27T14:31:51+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sanad AlTaher</title><subtitle>Mohammad Sanad AlTaher's personal website intends to host his professional information and public work such as: course notes, guides, papers, and more!</subtitle><entry><title type="html">EE555 Optical Fiber Communication Systems Notes</title><link href="http://localhost:4000/course-resources/optical-fibers-notes" rel="alternate" type="text/html" title="EE555 Optical Fiber Communication Systems Notes" /><published>2023-02-27T00:03:11+03:00</published><updated>2023-02-27T00:03:11+03:00</updated><id>http://localhost:4000/course-resources/optical-fibers-notes</id><content type="html" xml:base="http://localhost:4000/course-resources/optical-fibers-notes">&lt;p&gt;I took this course in the fall semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=mabbadi&quot;&gt;Prof. Dr. Mansour Abu Shreea&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The notes are in reference to G. Keiser’s &lt;em&gt;Optical Fiber Communications&lt;/em&gt;, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.&lt;/p&gt;
 
@@ -241,25 +241,20 @@ Before serving your site for the first time, you may need to run&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Front matter&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;permalinks, layouts, defaults, etc
-lorem ipsum&lt;/p&gt;
+    &lt;p&gt;permalinks, layouts, defaults, etc&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Creating posts:&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;lorem ipsum&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Creating pages:&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;pages.md files
-  lorem ipsum&lt;/p&gt;
+    &lt;p&gt;pages.md files&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Changing page structure:&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;changing
-  lorem ipsum&lt;/p&gt;
+    &lt;p&gt;changing&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Themes&lt;/strong&gt;&lt;/p&gt;
@@ -304,8 +299,7 @@ Now you must install the theme by running the&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;General HTML:&lt;/strong&gt;&lt;/p&gt;
 
-    &lt;p&gt;Adding objects: pdfs, etc.
-lorem ipsum&lt;/p&gt;
+    &lt;p&gt;Adding objects: pdfs, etc.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -320,18 +314,12 @@ lorem ipsum&lt;/p&gt;
 &lt;ol start=&quot;15&quot;&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Create a GitHub repository for your site:&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;lorem ipsum&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Changing your static site’s URL:&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;lorem ipsum&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Pushing your site to your GitHub repository:&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;p&gt;lorem ipsum&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Applying any new changes:&lt;/strong&gt;&lt;/p&gt;
@@ -341,8 +329,6 @@ lorem ipsum&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion:&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum&lt;/p&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt; or you can &lt;a href=&quot;/contact/&quot;&gt;contact&lt;/a&gt; me personally.&lt;/p&gt;
 
