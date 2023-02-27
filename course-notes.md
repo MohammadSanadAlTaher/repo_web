@@ -15,6 +15,12 @@ If you have any concerns, please [contact]({{ site.url }}{{ site.baseurl }}/cont
 
 <h3 style="font-weight: lighter;">5th Year EE Courses</h3>
 
+#### EE575 Communication Networks:
+* [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/networks-notes)
+
+#### EE555 Optical Fiber Communication Systems:
+* [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/optical-fibers-notes)
+
 #### EE551 Digital Communications:
 * [Equations]({{ site.url }}{{ site.baseurl }}/course-resources/EE551-equations)
 

@@ -135,7 +135,7 @@ html[data-theme="dark"]  {
   .site-footer {
     color: $dark-text-color;
     background-color: transparent;
-    backdrop-filter: brightness(200%);
+    backdrop-filter: brightness(300%);
     transition: all 0.35s ease-in-out;
   }
 
@@ -280,11 +280,6 @@ html[data-theme="dark"]  {
     }
   }
 
-
-  input[type=text] {
-    color: $dark-text-color;
-  }
-
   .post-link:hover {
     text-shadow: -.25px -.25px 0 white,
     .25px .25px white;
@@ -295,26 +290,96 @@ html[data-theme="dark"]  {
 
   #search-container .search-bar {
     background: $dark-background-color;
+    border: 1px solid #858585;
+    filter: brightness(250%);
+    input[type=text] {
+      color: $dark-text-color;
+    }
   }
 
 
   a {
     color: $brand-color-dark;
     text-decoration: none;
+    transition: 0.05s ease-in-out;
 
 
     &:hover {
       text-shadow: -.25px -.25px 0 $brand-color-dark,
       .25px .25px $brand-color-dark;
       opacity: 1;
-      filter: contrast(200%);
-      transition: 0.05s ease-in-out;
+      filter: contrast(200%) brightness(250%);
+      transition: 0.1s ease-in-out;
     }
   }
 
 
   pre {
     border-left: 4px solid $brand-color-dark;
+  }
+
+  /*
+ * Contact
+ */
+
+  .form_cred {
+    width: 35%;
+    padding: 10px 14px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #858585;
+    border-radius: 12px;
+    color: white;
+    font-weight: 500;
+    background-color: transparent;
+    backdrop-filter: brightness(250%);
+
+    input[type=text] {
+      color: white !important;
+    }
+  }
+
+
+  textarea {
+    width: 45%;
+    height: 150px;
+    padding: 10px 14px;
+    box-sizing: border-box;
+    border: 2px solid #858585;
+    margin-top: -6px;
+    border-radius: 12px;
+    resize: none;
+    color: white;
+    font-weight: 500;
+    background-color: transparent;
+    backdrop-filter: brightness(250%);
+  }
+
+  button[type=submit] {
+    border: 2px solid #858585;
+    padding: 10px 24px;
+    text-decoration: none;
+    margin: 20px 0px;
+    border-radius: 12px;
+    cursor: pointer;
+    color: $dark-text-color;
+    background-color: transparent;
+    backdrop-filter: brightness(250%);
+  }
+
+  button[type=submit]:hover {
+    color: white;
+    text-shadow: -.25px -.25px 0 black,
+    .25px .25px black;
+    transition: 0.05s ease-in-out;
+    filter: contrast(200%);
+    border: 2px solid white;
+  }
+
+  ::placeholder {
+    opacity: 0.6;
+    font-weight: normal;
+    color: $dark-text-color;
   }
 
 }
