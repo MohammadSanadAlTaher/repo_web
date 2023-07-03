@@ -50,7 +50,6 @@ header_pages:
   - about.markdown
   - course-notes.md
   - guides.md
-  - misc-work.md
   - zcontact.md
 
 # Exclude from processing.
