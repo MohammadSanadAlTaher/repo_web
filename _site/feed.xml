@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-27T14:53:54+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sanad AlTaher</title><subtitle>Mohammad Sanad AlTaher's personal website intends to host his professional information and public work such as: course notes, guides, papers, and more!</subtitle><entry><title type="html">EE555 Optical Fiber Communication Systems Notes</title><link href="http://localhost:4000/course-resources/optical-fibers-notes" rel="alternate" type="text/html" title="EE555 Optical Fiber Communication Systems Notes" /><published>2023-02-27T00:03:11+03:00</published><updated>2023-02-27T00:03:11+03:00</updated><id>http://localhost:4000/course-resources/optical-fibers-notes</id><content type="html" xml:base="http://localhost:4000/course-resources/optical-fibers-notes">&lt;p&gt;I took this course in the fall semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=mabbadi&quot;&gt;Prof. Dr. Mansour Abu Shreea&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-07-03T16:04:18+03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sanad AlTaher</title><subtitle>Mohammad Sanad AlTaher's personal website intends to host his professional information and public work such as: course notes, guides, papers, and more!</subtitle><entry><title type="html">EE558 Satellite Communication Systems Notes</title><link href="http://localhost:4000/course-resources/satellite-communication-systems" rel="alternate" type="text/html" title="EE558 Satellite Communication Systems Notes" /><published>2023-07-03T00:03:11+03:00</published><updated>2023-07-03T00:03:11+03:00</updated><id>http://localhost:4000/course-resources/satellite-communication-systems</id><content type="html" xml:base="http://localhost:4000/course-resources/satellite-communication-systems">&lt;p&gt;I took this course in the spring semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=mabbadi&quot;&gt;Prof. Dr. Mansour Abbadi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The notes are in reference to T. Pratt’s &lt;em&gt;Satellite Communications&lt;/em&gt;, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.&lt;/p&gt;
+
+&lt;p&gt;These notes are not free from mistakes, reader discretion is advised. Please &lt;a href=&quot;/contact/&quot;&gt;contact&lt;/a&gt; me if you have any concerns.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center;&quot;&gt;View below or &lt;a href=&quot;/assets/pdf/ee558_notes.pdf&quot;&gt;
+click here&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center; margin-top: -10px&quot;&gt;
+&lt;object data=&quot;/assets/pdf/ee558_notes.pdf&quot; width=&quot;100%&quot; height=&quot;1080&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the spring semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abbadi.</summary></entry><entry><title type="html">EE524 RF Communication Circuits Notes</title><link href="http://localhost:4000/course-resources/rf-communication-circuits" rel="alternate" type="text/html" title="EE524 RF Communication Circuits Notes" /><published>2023-07-03T00:03:10+03:00</published><updated>2023-07-03T00:03:10+03:00</updated><id>http://localhost:4000/course-resources/rf-communication-circuits</id><content type="html" xml:base="http://localhost:4000/course-resources/rf-communication-circuits">&lt;p&gt;I took this course in the spring semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=mabbadi&quot;&gt;Prof. Dr. Mansour Abbadi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The notes are in reference to J. Smith’s &lt;em&gt;Modern Communication Circuits&lt;/em&gt;, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.&lt;/p&gt;
+
+&lt;p&gt;These notes are not free from mistakes, reader discretion is advised. Please &lt;a href=&quot;/contact/&quot;&gt;contact&lt;/a&gt; me if you have any concerns.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;text-align:center;&quot;&gt;View below or &lt;a href=&quot;/assets/pdf/EE524_notes.pdf&quot;&gt;
+click here&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&quot;text-align: center; margin-top: -10px&quot;&gt;
+&lt;object data=&quot;/assets/pdf/EE524_notes.pdf&quot; width=&quot;100%&quot; height=&quot;1080&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the spring semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abbadi.</summary></entry><entry><title type="html">EE555 Optical Fiber Communication Systems Notes</title><link href="http://localhost:4000/course-resources/optical-fibers-notes" rel="alternate" type="text/html" title="EE555 Optical Fiber Communication Systems Notes" /><published>2023-02-27T00:03:11+03:00</published><updated>2023-02-27T00:03:11+03:00</updated><id>http://localhost:4000/course-resources/optical-fibers-notes</id><content type="html" xml:base="http://localhost:4000/course-resources/optical-fibers-notes">&lt;p&gt;I took this course in the fall semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=mabbadi&quot;&gt;Prof. Dr. Mansour Abbadi&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The notes are in reference to G. Keiser’s &lt;em&gt;Optical Fiber Communications&lt;/em&gt;, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.&lt;/p&gt;
 
@@ -11,9 +37,9 @@ click here&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&quot;text-align: center; margin-top: -10px&quot;&gt;
 &lt;object data=&quot;/assets/pdf/ee555_notes.pdf&quot; width=&quot;100%&quot; height=&quot;1080&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the fall semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abu Shreea.</summary></entry><entry><title type="html">EE575 Communication Networks Notes</title><link href="http://localhost:4000/course-resources/networks-notes" rel="alternate" type="text/html" title="EE575 Communication Networks Notes" /><published>2023-02-27T00:03:10+03:00</published><updated>2023-02-27T00:03:10+03:00</updated><id>http://localhost:4000/course-resources/networks-notes</id><content type="html" xml:base="http://localhost:4000/course-resources/networks-notes">&lt;p&gt;I took this course in the fall semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=makhodeir&quot;&gt;Dr. Mahmoud Khodeir&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the fall semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abbadi.</summary></entry><entry><title type="html">EE575 Communication Networks Notes</title><link href="http://localhost:4000/course-resources/networks-notes" rel="alternate" type="text/html" title="EE575 Communication Networks Notes" /><published>2023-02-27T00:03:10+03:00</published><updated>2023-02-27T00:03:10+03:00</updated><id>http://localhost:4000/course-resources/networks-notes</id><content type="html" xml:base="http://localhost:4000/course-resources/networks-notes">&lt;p&gt;I took this course in the fall semester of 2022/2023, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=makhodeir&quot;&gt;Dr. Mahmoud Khodeir&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The notes are in reference to B. Forouzan’s &lt;em&gt;Data Communications and Networking&lt;/em&gt;, and Prof. Mahmoud’s lectures and past exams.&lt;/p&gt;
+&lt;p&gt;The notes are in reference to B. Forouzan’s &lt;em&gt;Data Communications and Networking&lt;/em&gt;, and Dr. Mahmoud’s lectures and past exams.&lt;/p&gt;
 
 &lt;p&gt;These notes are not free from mistakes, reader discretion is advised. Please &lt;a href=&quot;/contact/&quot;&gt;contact&lt;/a&gt; me if you have any concerns.&lt;/p&gt;
 
@@ -401,30 +427,4 @@ click here&lt;/a&gt;&lt;/p&gt;
 
 &lt;div style=&quot;text-align: center; margin-top: -10px&quot;&gt;
 &lt;object data=&quot;/assets/pdf/CommSystemsTransformsMiscEqs.pdf&quot; width=&quot;100%&quot; height=&quot;1080&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the spring semester of 2020/2021, it was instructed by Dr. Jehad Ababneh.</summary></entry><entry><title type="html">EE307 Electromagnetics II Equations</title><link href="http://localhost:4000/course-resources/EM2-equations" rel="alternate" type="text/html" title="EE307 Electromagnetics II Equations" /><published>2021-06-22T00:22:14+03:00</published><updated>2021-06-22T00:22:14+03:00</updated><id>http://localhost:4000/course-resources/EM2-equations</id><content type="html" xml:base="http://localhost:4000/course-resources/EM2-equations">&lt;p&gt;I took this course in the spring semester of 2020/2021, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=nihad&quot;&gt;Prof. Dr. Nihad Dib&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The equations were taken from M. Sadiku’s &lt;em&gt;Elements of Electromagnetics&lt;/em&gt; (seventh edition) and Prof. Nihad’s notes and lectures.&lt;/p&gt;
-
-&lt;p&gt;Please &lt;a href=&quot;/contact/&quot;&gt;contact&lt;/a&gt; me if you have any concerns.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center;&quot;&gt;View below or &lt;a href=&quot;/assets/pdf/AllEquationsEM2.pdf&quot;&gt;
-click here&lt;/a&gt;&lt;/p&gt;
-
-&lt;div style=&quot;text-align: center; margin-top: -10px&quot;&gt;
-&lt;object data=&quot;/assets/pdf/AllEquationsEM2.pdf&quot; width=&quot;100%&quot; height=&quot;1080&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the spring semester of 2020/2021, it was instructed by Prof. Dr. Nihad Dib.</summary></entry><entry><title type="html">EE307 Electromagnetics II Notes</title><link href="http://localhost:4000/course-resources/electromagnetics2" rel="alternate" type="text/html" title="EE307 Electromagnetics II Notes" /><published>2021-06-22T00:22:13+03:00</published><updated>2021-06-22T00:22:13+03:00</updated><id>http://localhost:4000/course-resources/electromagnetics2</id><content type="html" xml:base="http://localhost:4000/course-resources/electromagnetics2">&lt;p&gt;I took this course in the spring semester of 2020/2021, it was instructed by &lt;a href=&quot;https://www.just.edu.jo/eportfolio/Pages/Default.aspx?email=nihad&quot;&gt;Prof. Dr. Nihad Dib&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The notes are in reference to M. Sadiku’s &lt;em&gt;Elements of Electromagnetics&lt;/em&gt; (seventh edition) and Prof. Nihad’s notes, lectures, past exams, and past quizzes.&lt;/p&gt;
-
-&lt;p&gt;These notes are not free from mistakes, reader discretion is advised. Please &lt;a href=&quot;/contact/&quot;&gt;contact&lt;/a&gt; me if you have any concerns.&lt;/p&gt;
-
-&lt;p&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p style=&quot;text-align:center;&quot;&gt;View below or &lt;a href=&quot;/assets/pdf/EM2FullNotes.pdf&quot;&gt;
-click here&lt;/a&gt;&lt;/p&gt;
-
-&lt;div style=&quot;text-align: center; margin-top: -10px&quot;&gt;
-&lt;object data=&quot;/assets/pdf/EM2FullNotes.pdf&quot; width=&quot;100%&quot; height=&quot;1080&quot; type=&quot;application/pdf&quot;&gt;&lt;/object&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the spring semester of 2020/2021, it was instructed by Prof. Dr. Nihad Dib.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="course-resources" /><summary type="html">I took this course in the spring semester of 2020/2021, it was instructed by Dr. Jehad Ababneh.</summary></entry></feed>

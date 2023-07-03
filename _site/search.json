@@ -2,10 +2,30 @@
   
   {
 
+    "title"    : "EE558 Satellite Communication Systems Notes",
+    "url"      : "/course-resources/satellite-communication-systems",
+    "date"     : "2023-07-03 00:03:11 +0300",
+    "content" : "I took this course in the spring semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abbadi.The notes are in reference to T. Pratt’s Satellite Communications, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
+    "title"    : "EE524 RF Communication Circuits Notes",
+    "url"      : "/course-resources/rf-communication-circuits",
+    "date"     : "2023-07-03 00:03:10 +0300",
+    "content" : "I took this course in the spring semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abbadi.The notes are in reference to J. Smith’s Modern Communication Circuits, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+
+
+  } ,
+  
+  {
+
     "title"    : "EE555 Optical Fiber Communication Systems Notes",
     "url"      : "/course-resources/optical-fibers-notes",
     "date"     : "2023-02-27 00:03:11 +0300",
-    "content" : "I took this course in the fall semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abu Shreea.The notes are in reference to G. Keiser’s Optical Fiber Communications, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+    "content" : "I took this course in the fall semester of 2022/2023, it was instructed by Prof. Dr. Mansour Abbadi.The notes are in reference to G. Keiser’s Optical Fiber Communications, and Prof. Mansour’s notes, lectures, past exams, and past homeworks.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
 
 
   } ,
@@ -15,7 +35,7 @@
     "title"    : "EE575 Communication Networks Notes",
     "url"      : "/course-resources/networks-notes",
     "date"     : "2023-02-27 00:03:10 +0300",
-    "content" : "I took this course in the fall semester of 2022/2023, it was instructed by Dr. Mahmoud Khodeir.The notes are in reference to B. Forouzan’s Data Communications and Networking, and Prof. Mahmoud’s lectures and past exams.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
+    "content" : "I took this course in the fall semester of 2022/2023, it was instructed by Dr. Mahmoud Khodeir.The notes are in reference to B. Forouzan’s Data Communications and Networking, and Dr. Mahmoud’s lectures and past exams.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
 
 
   } ,
@@ -96,16 +116,6 @@
     "url"      : "/course-resources/electromagnetics2",
     "date"     : "2021-06-22 00:22:13 +0300",
     "content" : "I took this course in the spring semester of 2020/2021, it was instructed by Prof. Dr. Nihad Dib.The notes are in reference to M. Sadiku’s Elements of Electromagnetics (seventh edition) and Prof. Nihad’s notes, lectures, past exams, and past quizzes.These notes are not free from mistakes, reader discretion is advised. Please contact me if you have any concerns.&amp;nbsp;View below or click here"
-
-
-  } ,
-  
-  {
-
-    "title"    : "Wireless Power Transmission with Applied Metamaterials",
-    "url"      : "/papers/WPTEssay",
-    "date"     : "2021-06-22 00:18:18 +0300",
-    "content" : ""
 
 
   } ,
