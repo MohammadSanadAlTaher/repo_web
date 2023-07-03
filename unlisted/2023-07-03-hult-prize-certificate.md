@@ -1,6 +1,6 @@
 ---
 layout: articles
-permalink: /SHVhd2VpIEhDSUEtNUcgQ2VydGlmaWNhdGU
+permalink: /SHVsdCBQcml6ZSBDb21wZXRpdG9yIENlcnRpZmljYXRl
 date: 2023-07-03
 sitemap: false
 noindex: true
