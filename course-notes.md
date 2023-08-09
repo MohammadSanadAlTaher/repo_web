@@ -18,27 +18,17 @@ If you have any concerns, please [contact]({{ site.url }}{{ site.baseurl }}/cont
 #### EE575 Communication Networks:
 * [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/networks-notes)
 
-<br>
-
 #### EE558 Satellite Communication Systems:
 * [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/satellite-communication-systems)
-
-<br>
 
 #### EE555 Optical Fiber Communication Systems:
 * [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/optical-fibers-notes)
 
-<br>
-
 #### EE551 Digital Communications:
 * [Equations]({{ site.url }}{{ site.baseurl }}/course-resources/EE551-equations)
 
-<br>
-
 #### EE524 RF Communication Circuits:
 * [Course Notes]({{ site.url }}{{ site.baseurl }}/course-resources/rf-communication-circuits)
-
-<br>
 
 <p>&nbsp;</p>
 ----
