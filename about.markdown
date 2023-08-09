@@ -20,7 +20,7 @@ You can access my résumé [HERE](/resume/)
 You can find my LinkedIn profile [HERE][linkedin-profile]
 
 
-[linkedin-profile]:https://www.linkedin.com/in/sanad-altaher-4236a3174/
+[linkedin-profile]:https://www.linkedin.com/in/sanad-altaher/
 
 
 
