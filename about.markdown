@@ -4,10 +4,15 @@ title: About Me
 permalink: /about-me/
 ---
 
-My name is Mohammad Sanad AlTaher, I obtained my bachelor's degree in Electrical Engineering
-from [Jordan University of Science and Technology](https://www.just.edu.jo/Pages/Default.aspx), where I 
-graduated with a 3.92/4.0 CGPA, ranking 4<sup>th</sup> in a cohort of 78 students. Additionally, I specialized 
-in Telecommunications and ranked 1<sup>st</sup> among others who chose this specialization, around half of the EE cohort. 
+My name is Mohammad Sanad AlTaher, I am currently in my first term as a PhD student at 
+[Oregon State University](https://oregonstate.edu/)
+(Corvallis, Oregon), working in the [Integrated Electronics](https://engineering.oregonstate.edu/EECS/research/integrated-electronics) 
+research group, and focusing on electromagnetics.
+
+I obtained my bachelor’s degree in Electrical Engineering from 
+[Jordan University of Science and Technology](https://www.just.edu.jo/Pages/Default.aspx), where I
+graduated with a 3.92/4.0 CGPA, ranking 4<sup>th</sup> in a cohort of 78 students. Additionally, I specialized
+in Telecommunications and ranked 1<sup>st</sup> among others who chose this specialization, around half of the EE cohort.
 
 During my undergraduate studies, I garnered considerable international experience in entrepreneurship, 
 academics, and research by partaking in the Hult Prize in Dubai in 2019, an Erasmus+ exchange semester 
