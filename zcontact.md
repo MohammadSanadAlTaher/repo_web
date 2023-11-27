@@ -24,4 +24,8 @@ _<sanad_altaher@outlook.com>_
 
 _<mhaltaher18@eng.just.edu.jo>_
 
+_<altaherm@oregonstate.edu>_
+
 _+962 (0) 777 494 818_
+
+_+1 (541) 250-7793_
